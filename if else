@@ -30,6 +30,8 @@ Sample Output 1
 
 Not Weird
 
+
+sol:
 import java.io.*;
 import java.math.*;
 import java.security.*;
